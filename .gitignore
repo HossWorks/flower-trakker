@@ -4,12 +4,6 @@
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
 # Package Files #
 *.war
 *.nar
@@ -24,3 +18,4 @@ hs_err_pid*
 .gradle/
 .idea/
 build/
+.env
