@@ -27,5 +27,5 @@ public class FlowerTypeController {
         return (List<FlowerType>)repository.findAll();
     }
 
-    
+
 }
